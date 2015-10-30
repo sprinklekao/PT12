@@ -8,10 +8,12 @@ namespace ConsoleApplication1
 {
     class Program
     {
+     public int aaa;
+     public int bas;
         static void Main(string[] args)
         {
-           w
-
+          int  aaa = 1;
+          int bas = 5;
 
 
 
